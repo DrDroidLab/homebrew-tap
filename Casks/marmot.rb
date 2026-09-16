@@ -1,6 +1,6 @@
 cask "marmot" do
-  version "0.2.3"
-  sha256 "c192004eafa9559bdeea1204409cc072023ec3e2d648f1410eaefbf19d948978"
+  version "0.2.4"
+  sha256 "3eb7fb69595806367afa7adb49692e7d38653d49487d02538da88d2cdfd81f66"
 
   url "https://github.com/DrDroidLab/marmot/releases/download/app-v#{version}/Marmot-#{version}.zip"
   name "Marmot"
